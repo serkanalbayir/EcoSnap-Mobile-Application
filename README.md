@@ -1,7 +1,6 @@
 # EcoSnap-Mobile-Application
-with folium library
 
-# EcoSnap Mobile Application 
+with folium library
 
 EcoSnap aims to collect real-time citizen participation in the determination of environmental and health problems during the creation of urban planning.
 
@@ -21,7 +20,7 @@ You can download EcoSnap from [Google Play](https://play.google.com/store/apps/d
 
 # URL'S
 https://www.earthdatascience.org/tutorials/introduction-to-leaflet-animated-maps/
-https://web.postman.co
+https://web.postman.com
 
 # Collect Data
 In this project, all the data were taken by postman.
